@@ -8,7 +8,7 @@
     + [Hi there 👋](#hi-there---)
 - [My cheatsheet](#my-cheatsheet)
   * [Python](#python)
-    + [Python | General](#python | general)
+    + [Python | General](#python---general)
     + [Python | String Operations](#python---string-operations)
     + [Python | Generators](#python---generators)
     + [Python | Sets](#python---sets)
@@ -28,7 +28,7 @@
 
 # My cheatsheet
 ## Python
-### Python | General
+### Python General
 ```
 sorted(set([]))
 x = 1 if True else 0
