@@ -5,18 +5,16 @@
 - 📫 How to reach me: write me to my e-mail (4iurchenko AT gmail.com)
 
 
-    + [Hi there 👋](#hi-there---)
-- [My cheatsheet](#my-cheatsheet)
   * [Python](#python)
-    + [PythonGeneral](#PythonGeneral)
-    + [Python | String Operations](#python---string-operations)
-    + [Python | Generators](#python---generators)
-    + [Python | Sets](#python---sets)
-    + [Python | Lists](#python---lists)
-    + [Python | Conversions](#python---conversions)
-    + [Python | Math](#python---math)
-    + [Python | Dictionaries](#python---dictionaries)
-    + [Python | Datetime](#python---datetime)
+    + [PythonGeneral](#pythongeneral)
+    + [PythonStringOperations](#pythonstringoperations)
+    + [PythonGenerators](#pythongenerators)
+    + [PythonSets](#pythonsets)
+    + [PythonLists](#pythonlists)
+    + [PythonConversions](#pythonconversions)
+    + [PythonMath](#pythonmath)
+    + [PythonDictionaries](#pythondictionaries)
+    + [PythonDatetime](#pythondatetime)
   * [Sql](#sql)
   * [Airflow](#airflow)
   * [Hive](#hive)
@@ -46,7 +44,7 @@ None
 yield
 !=
 ```
-### Python | String Operations
+### PythonStringOperations
 ```
 Strings
 startswith()
@@ -66,7 +64,7 @@ partition()
 isalnum()
 ```
 
-### Python | Generators
+### PythonGenerators
 ```
 min()
 max()
@@ -86,7 +84,7 @@ filter()
 sorted()
 ```
 
-### Python | Sets
+### PythonSets
 ```
 min()
 max()
@@ -106,7 +104,7 @@ filter()
 sorted()
 ```
 
-### Python | Lists
+### PythonLists
 ```
 append()
 insert()
@@ -123,7 +121,7 @@ index()
 s[0:10:2]
 ```
 
-### Python | Conversions
+### PythonConversions
 ```
 list()
 str()
@@ -135,7 +133,7 @@ split()
 None
 ```
 
-### Python | Math
+### PythonMath
 ```
 abs()
 //
@@ -148,7 +146,7 @@ if not
 1 < var <= 999
 ```
 
-### Python | Dictionaries
+### PythonDictionaries
 ```
 keys()
 values()
@@ -159,7 +157,7 @@ get()
 update()
 ```
 
-### Python | Datetime
+### PythonDatetime
 ```
 strptime('%Y%m%d')
 strftime()
