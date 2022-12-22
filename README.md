@@ -7,16 +7,22 @@
 
 # My cheatsheet
 ## Python
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
+### General
+sorted(set([]))
+x = 1 if True else 0
+(lambda n: n+1)()
+break
+continue
+hash()
+func.__doc__
+type()
+format('.2f)
+*args
+**kwargs
+is
+None
+yield
+!=
 
 ## Sql
 Lorem ipsum
