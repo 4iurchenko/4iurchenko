@@ -6,6 +6,7 @@
 
 
 # My cheatsheet
+'''
 ## Python
 ### General
 sorted(set([]))
@@ -83,6 +84,7 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
+'''
 
 ## PyCharm
 Lorem ipsum
