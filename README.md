@@ -4,7 +4,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: write me to my e-mail (4iurchenko AT gmail.com)
 
-
   * [Python](#python)
     + [PythonGeneral](#pythongeneral)
     + [PythonStringOperations](#pythonstringoperations)
