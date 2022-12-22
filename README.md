@@ -146,10 +146,6 @@ timedelta()
 datetime(datetime, timedelta)
 ```
 
-### Python | 
-```
-```
-
 ## Sql
 ```
 Lorem ipsum
