@@ -5,8 +5,8 @@
 - 📫 How to reach me: write me to my e-mail (4iurchenko AT gmail.com)
 
 
-My cheatsheet:
-# Python
+# My cheatsheet
+## Python
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -18,7 +18,7 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 
-# Sql
+## Sql
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -30,7 +30,7 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 
-# Airflow
+## Airflow
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -42,7 +42,7 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 
-# Hive
+## Hive
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -54,7 +54,7 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 
-# Linux
+## Linux
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -66,5 +66,14 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 
-# PyCharm
-
+## PyCharm
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
