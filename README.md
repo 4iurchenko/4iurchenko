@@ -98,6 +98,7 @@ Lorem ipsum
 
 
 ## PyCharm
+```
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -108,3 +109,4 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
+```
