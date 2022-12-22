@@ -6,9 +6,9 @@
 
 
 # My cheatsheet
-```
 ## Python
 ### General
+```
 sorted(set([]))
 x = 1 if True else 0
 (lambda n: n+1)()
@@ -24,8 +24,10 @@ is
 None
 yield
 !=
+```
 
 ## Sql
+```
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -36,8 +38,10 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
+```
 
 ## Airflow
+```
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -48,8 +52,10 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
+```
 
 ## Hive
+```
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -60,8 +66,10 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
+```
 
 ## Spark
+```
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
@@ -72,8 +80,10 @@ Lorem ipsum
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
+```
 
 ## Linux
+```
 Lorem ipsum
 Lorem ipsum
 Lorem ipsum
