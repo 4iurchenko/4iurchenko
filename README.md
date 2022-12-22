@@ -5,6 +5,27 @@
 - 📫 How to reach me: write me to my e-mail (4iurchenko AT gmail.com)
 
 
+    + [Hi there 👋](#hi-there---)
+- [My cheatsheet](#my-cheatsheet)
+  * [Python](#python)
+    + [Python | General](#python---general)
+    + [Python | String Operations](#python---string-operations)
+    + [Python | Generators](#python---generators)
+    + [Python | Sets](#python---sets)
+    + [Python | Lists](#python---lists)
+    + [Python | Conversions](#python---conversions)
+    + [Python | Math](#python---math)
+    + [Python | Dictionaries](#python---dictionaries)
+    + [Python | Datetime](#python---datetime)
+  * [Sql](#sql)
+  * [Airflow](#airflow)
+  * [Hive](#hive)
+  * [Spark](#spark)
+  * [Linux](#linux)
+  * [PyCharm](#pycharm)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # My cheatsheet
 ## Python
 ### Python | General
