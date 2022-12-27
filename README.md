@@ -20,6 +20,8 @@
   * [Spark](#spark)
   * [Linux](#linux)
   * [PyCharm](#pycharm)
+  * [Learning Strategies](#learning-strategies)
+
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -236,6 +238,20 @@ Lorem ipsum
 
 
 ## PyCharm
+```
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+Lorem ipsum
+```
+
+## Learning Strategies
 ```
 Lorem ipsum
 Lorem ipsum
