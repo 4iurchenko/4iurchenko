@@ -168,99 +168,29 @@ datetime(datetime, timedelta)
 
 ## Sql
 ```
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
 ```
 
 ## Airflow
 ```
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
 ```
 
 ## Hive
 ```
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
 ```
 
 ## Spark
 ```
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
 ```
 
 ## Linux
 ```
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
 ```
 
 
 ## PyCharm
 ```
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
 ```
 
 ## Learning Strategies
 ```
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
-Lorem ipsum
 ```
