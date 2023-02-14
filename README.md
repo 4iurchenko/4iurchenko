@@ -6,7 +6,7 @@ I've been in engineering since 2009. But actually, since 2000. Then, in 2003, I 
 Now, I'm focusing on building data platforms and data pipelines.
 I am more experienced in big data tools, but relational databases are very familiar for me too. In Big data, the typical tools I use are Spark, Hive, Airflow, Python, and SQL. I've finished projects in both on-premise and cloud envs. I believe I am great at writing SQLs (especially complex ones), and coding Pythonic applications. But, frankly speaking :), the impostor syndrome sometimes comes to me :)
 
-In my portfolio, tens of completed projects. As an example, in the last project, I built ~20 end-to-end data pipelines that process from tens to hundreds million events daily using Spark, Hive, Python, and SQL. I modeled the tables, built ETLs, and prepared source-to-target stuff. Also, I led the team for 6 months.
+In my portfolio, tens of completed projects. As an example, in the last project, I built ~20 end-to-end data pipelines that process from tens to hundreds million events daily. To achieve that, I used Spark, Hive, Python, and SQL, Vertica, Jenkins, sometimes jumped right in Scala applications, checked Kafka, Grafana, ELK. I modeled the tables, built ETLs, and prepared source-to-target stuff. Also, I led the team for 6 months.
 
 Some of my pet projects:
 
