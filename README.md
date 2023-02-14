@@ -1,196 +1,30 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Data Ingestion project as a Senior Data Engineer for the game company (Spark, Cloudera, Hive, Python, Kafka)
-- 🌱 I’m currently learning advanced frameworks in data management and preparing to the exam PCAP-31-03 (Python)
-- 💬 Ask me about anything
-- 📫 How to reach me: write me to my e-mail (4iurchenko AT gmail.com)
 
-  * [Python](#python)
-    + [PythonGeneral](#pythongeneral)
-    + [PythonStringOperations](#pythonstringoperations)
-    + [PythonGenerators](#pythongenerators)
-    + [PythonSets](#pythonsets)
-    + [PythonLists](#pythonlists)
-    + [PythonConversions](#pythonconversions)
-    + [PythonMath](#pythonmath)
-    + [PythonDictionaries](#pythondictionaries)
-    + [PythonDatetime](#pythondatetime)
-  * [Sql](#sql)
-  * [Airflow](#airflow)
-  * [Hive](#hive)
-  * [Spark](#spark)
-  * [Linux](#linux)
-  * [PyCharm](#pycharm)
-  * [Learning Strategies](#learning-strategies)
+I am Yurii. I am a data engineer, as well as a software enthusiast.
+I've been in engineering since 2009. But actually, since 2000. Then, in 2003, I won the competition with the game "Tanks" in Ukraine. 
+
+Now, I'm focusing on building data platforms and data pipelines.
+I am more experienced in big data tools, but relational databases are very familiar for me too. In Big data, the typical tools I use are Spark, Hive, Airflow, Python, and SQL. I've finished projects in both on-premise and cloud envs. I believe I am great at writing SQLs (especially complex ones), and coding Pythonic applications. But, frankly speaking :), the impostor syndrome sometimes comes to me :)
+
+In my portfolio, tens of completed projects. As an example, in the last project, I built ~20 end-to-end data pipelines that process from tens to hundreds million events daily using Spark, Hive, Python, and SQL. I modeled the tables, built ETLs, and prepared source-to-target stuff. Also, I led the team for 6 months.
+
+Some of my pet projects:
+
+# Project - A Tableau report showing different types of Charts, 2022
+This report was a part of the process when I tried to figure out when to use each type of the most popular diagram types, especially in Tableau (bar chart, line graph, scatter plot, etc.). Link: https://public.tableau.com/app/profile/yuri6516/viz/TenClassicalChartTypes/DifferentChartTypes
 
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+# Project - Python GUI Application which boosts Advanced English vocabulary by immersion in the Environment, 2021
+This project aimed to boost my advanced English vocabulary. For this purpose, I took the Oxford-5000 Advanced word list and prepared the Python GUI application, which shows youtube videos, especially when this word is pronounced and pushes me to recognize and type it. I used API requesting to youglish.com, developer.oxforddictionaries.com, and google Sheets and configured GUI in Python using Pyqt5 to do that.
+Link: https://github.com/4iurchenko/EnglishBooster
 
-# My cheatsheet
-## Python
-### PythonGeneral
-```
-sorted(set([]))
-x = 1 if True else 0
-(lambda n: n+1)()
-break
-continue
-hash()
-func.__doc__
-type()
-format('.2f)
-*args
-**kwargs
-is
-None
-yield
-!=
-```
-### PythonStringOperations
-```
-Strings
-startswith()
-endswith
-lower()
-upper()
-find()
-replace()
-join()
-format()
-f''
-\", \', \\
-capitalize()
-isupper()
-isnumeric()
-partition()
-isalnum()
-```
+# Project - A monitoring solution for the Event-based system, 2021.
+This project was a home task from "Highload System Design" training. Here, I use Docker/Docker Compose to build a solution with InfluxDB, Grafana, and Web-server and configure their Grafana Dashboards to monitor the loading. 
+Link: https://github.com/4iurchenko/Monitoring_GrafanaInfluxdbWeb
 
-### PythonGenerators
-```
-min()
-max()
-len()
-sum()
-[x for x in [] if x>10]
-{x for x in []}
-in str(), [], {}, Set
-enumerate([] or {})
-in range()
-all(...)
-any(...)
-reversed()
-zip()
-map()
-filter()
-sorted()
-```
-
-### PythonSets
-```
-min()
-max()
-len()
-sum()
-[x for x in [] if x>10]
-{x for x in []}
-in str(), [], {}, Set
-enumerate([] or {})
-in range()
-all(...)
-any(...)
-reversed()
-zip()
-map()
-filter()
-sorted()
-```
-
-### PythonLists
-```
-append()
-insert()
-remove()
-reverse()
-sort(key, reverse)
-stack.pop()
-del _list[start:end]
-count()
-extend()
-copy()
-clear()
-index()
-s[0:10:2]
-```
-
-### PythonConversions
-```
-list()
-str()
-int()
-float()
-set()
-bool()
-split()
-None
-```
-
-### PythonMath
-```
-abs()
-//
-random.randint()
-%
-**
-round()
-if [] or {} or Set() or None
-if not
-1 < var <= 999
-```
-
-### PythonDictionaries
-```
-keys()
-values()
-items()
-d['new'] = 'new_v'
-dict()
-get()
-update()
-```
-
-### PythonDatetime
-```
-strptime('%Y%m%d')
-strftime()
-timedelta()
-datetime(datetime, timedelta)
-```
-
-## Sql
-```
-```
-
-## Airflow
-```
-```
-
-## Hive
-```
-```
-
-## Spark
-```
-```
-
-## Linux
-```
-```
+# Project - Machine Learning solution to label photos of Cats and Dogs, 95% accuracy, 2019
+As homework in a 3-month Machine Learning training, I wrote a small neural network using Python Keras and Google Colab, a data set of 1000 photos of cats and dogs. This network could train on the test amount of data and then identify with accuracy 95% if it is a cat or dog in the photo. Unfortunately, I accidentally deleted the code.
 
 
-## PyCharm
-```
-```
+📫 How to reach me: write me to my e-mail (4iurchenko AT gmail.com)
 
-## Learning Strategies
-```
-```
