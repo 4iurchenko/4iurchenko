@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yurii. I am a data engineer, as well as a software enthusiast.
+I am Yurri. I am a data engineer, as well as a software enthusiast.
 I've been in engineering since 2009. But actually, since 2000. Then, in 2003, I won the competition with the game "Tanks" in Ukraine. 
 
 Now, I'm focusing on building data platforms and data pipelines.
